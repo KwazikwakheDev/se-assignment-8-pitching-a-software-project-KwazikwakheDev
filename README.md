@@ -9,6 +9,7 @@ Answer the following questions based on your understanding of how to pitch a sof
 
 1. Understanding the Audience:
    - Why is it important to understand your audience when pitching a software project? How can you tailor your pitch to different types of stakeholders (e.g., investors, technical team, customers)?
+      - 
 
 2. Problem Statement:
    - Describe the importance of a clear problem statement in a software project pitch. How do you effectively communicate the problem your software aims to solve?
